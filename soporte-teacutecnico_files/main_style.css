@@ -1,0 +1,57 @@
+ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,body,html,div.paragraph,blockquote,fieldset,input{ margin:0; padding:0; }
+ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,body,html,p,blockquote,fieldset,input{ margin:0; padding:0; }
+ ul{ list-style:none; }
+ fieldset{ border:0; }
+ a img{ border:0; }
+ .clear{ clear:both; }
+ body { background: #021f2f; font-family: arial, sans-serif; font-size:12px; color:#666666; height: 100%; margin:0; padding:0; }
+ a{ color: #26518a; text-decoration: none; }
+ div.paragraph { line-height: 170%; color: #626262; font-size: 13px; padding: 5px 0px 5px 0px; }
+ p { line-height: 170%; color: #626262; font-size: 13px; padding: 5px 0px 5px 0px; }
+ h1 { font-size:30px; font-weight:bold; color:#272e34; line-height:1.5; padding: 5px 0px 5px 0px; }
+ h2 { font-size:22px; font-family: arial, sans-serif; color:#272e34; line-height:1.5; padding: 5px 0px 5px 0px; }
+ #wrapper { width:960px; margin: 0px auto; }
+ .title{ width: 960px; padding: 30px 0px 30px 0px; font-size: 30px; color: #fff; font-weight: bold; }
+ #navigation{ position: relative; width: 960px; height: 64px; z-index: 2; padding: 1px 0px 0px 0px; background: url(../files/theme/navigationbg.jpg?153634) no-repeat; }
+ #navigation li{ float: left; height: 64px; z-index: 2; padding: 0px 2px 0px 0px; background: url(../files/theme/navli.gif?153634) right top no-repeat; }
+ #navigation li#active{ background: url(../files/theme/activebg.jpg?153634) top right no-repeat; }
+ #navigation li a{ position: relative; display: block; height: 45px; color: #fff; float: left; z-index: 2; padding: 19px 45px 0px 45px; font-size: 13px; text-decoration: none; }
+ #navigation li a:hover{ background: url(../files/theme/hoverbg.jpg?153634) repeat-x; text-decoration: none; }
+ #navigation li#active a{ background: #3a5984; background: url(../files/theme/active.gif?153634) bottom no-repeat; }
+ #header{ position: relative; width: 960px; height: 249px; z-index: 1; margin: -10px 0px 0px 0px; }
+ .weebly_header{ background: url(../files/theme/cust_headerImg.jpg?153634) no-repeat; }
+ #weebly-menus .weebly-menu-wrap { z-index: 5000; position: relative; margin: -10px 0px 0px 0px; border-top: 1px solid #132238; }
+ #weebly-menus .weebly-menu { padding: 0; margin: 0; list-style: none; }
+ #weebly-menus .weebly-menu li { float: left; clear: left; width: 163px; text-align: left; }
+ #weebly-menus .weebly-menu li a { position: relative; display: block; width: 100%; background: #2f4665; border-top: none; border-bottom: 1px solid #132238; border-right: none; border-left: none; text-decoration: none; font-size: 12px; font-weight: normal; line-height:1; padding: 8px 6px 8px 12px; color: #fff; }
+ #weebly-menus .weebly-menu li a:hover { background: #3f5f89; color: #fff; }
+ #content{ width: 904px; height:auto !important; min-height:400px; background: #fff; border-bottom: 1px solid #cecece; padding: 25px 28px 35px 28px; }
+ #content a{ color: #26518a; font-weight: bold; text-decoration: none; }
+ #footer{ width: 900px; color: #666666; font-size: 14px; font-weight: bold; text-align: right; background: #e4e4e4; border-top: 1px solid #fff; padding: 30px 30px 30px 30px; margin: 0px 0px 20px 0px; }
+
+div.paragraph ul, div.paragraph ol { padding-left: 25px !important; margin: 5px 0 !important; }
+div.paragraph li { padding-left: 5px !important; margin: 3px 0 0 !important; }
+div.paragraph ul, div.paragraph ul li { list-style: disc outside !important; }
+div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; }
+
+/*
+     FILE ARCHIVED ON 00:48:49 Jan 29, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:52:17 Dec 24, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1257.477
+  exclusion.robots: 0.081
+  exclusion.robots.policy: 0.074
+  RedisCDXSource: 0.549
+  esindex: 0.007
+  LoadShardBlock: 1239.19 (3)
+  PetaboxLoader3.datanode: 1251.531 (4)
+  CDXLines.iter: 15.419 (3)
+  load_resource: 65.19
+  PetaboxLoader3.resolve: 37.164
+*/
